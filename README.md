@@ -73,7 +73,7 @@ battery-alert/
 ├── vite.config.js          # Vite config
 ├── README.md               # Project info (this file)
 └── .gitignore
-
+```
 #📸 Screenshot
 ![Battery Alert Screenshot](./assets/battery-alert-v1-output.png)
 
