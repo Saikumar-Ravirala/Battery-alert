@@ -54,13 +54,17 @@ npm run tauri dev
 
 #🧱 Build Production App
 npm run tauri build
+```
+---
 
 The built executables will be available inside:
 
 src-tauri/target/release/bundle/
+
 You’ll find both .exe and .msi installers for Windows.
 
-#🧰 Project Structure
+### 🧰 Project Structure
+
 battery-alert/
 │
 ├── src/                   # Frontend React code
@@ -72,13 +76,16 @@ battery-alert/
 ├── package.json            # Node dependencies
 ├── vite.config.js          # Vite config
 ├── README.md               # Project info (this file)
-└── .gitignore
-```
-#📸 Screenshot
+└── .gitignore 
+
+
+---
+
+### 📸 Screenshot
 ![Battery Alert Screenshot](./assets/battery-alert-v1-output.png)
 
 
-#🧑‍💻 Author
+#### 🧑‍💻 Author
 
 Saikumar Ravirala
 📍 Hyderabad, India
