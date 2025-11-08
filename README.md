@@ -65,24 +65,25 @@ You’ll find both .exe and .msi installers for Windows.
 
 ### 🧰 Project Structure
 
-battery-alert/
-│
-├── src/                   # Frontend React code
-├── src-tauri/              # Rust backend code
-│   ├── main.rs             # Main backend logic
-│   ├── Cargo.toml          # Rust dependencies
-│   └── icons/              # App icons
-│
-├── package.json            # Node dependencies
-├── vite.config.js          # Vite config
-├── README.md               # Project info (this file)
-└── .gitignore 
+battery-alert/  
+│  
+├── src/                   # Frontend React code   
+├── src-tauri/              # Rust backend code   
+│   ├── main.rs             # Main backend logic   
+│   ├── Cargo.toml          # Rust dependencies   
+│   └── icons/              # App icons   
+│   
+├── package.json            # Node dependencies   
+├── vite.config.js          # Vite config   
+├── README.md               # Project info (this file)   
+└── .gitignore    
+
 
 
 ---
 
 ### 📸 Screenshot
-![Battery Alert Screenshot](./assets/battery-alert-v1-output.png)
+![Battery Alert Screenshot](src/assets/battery-alert-v1-output.png)
 
 
 #### 🧑‍💻 Author
